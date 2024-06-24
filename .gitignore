@@ -1,0 +1,11 @@
+**/__pycache__/
+**/*.pth
+data/raw_data/SWGIM_year/*
+data/raw_data/TWRR/*
+record/*
+**/*.csv
+prediction-result-presentation/
+**/*organiz*
+**/*.ipynb
+**/*.zip
+test/test.jpg
